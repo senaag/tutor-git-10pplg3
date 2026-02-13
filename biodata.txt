@@ -1,2 +1,4 @@
 nama : Bangbang Juned
 kelas : 10 pplg 3
+jenis kelamin : laki-laki
+sekolah : SMK Budi Bakti Ciwidey
